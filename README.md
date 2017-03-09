@@ -1,12 +1,11 @@
 # I love this plugin
 
 #####我用过的一些好用/常用的插件
-------
 
 ##显示进度系列 
 >###通用:
 
-1. [ora](https://github.com/sindresorhus/ora){:target="_blank"}
+1. [ora](https://github.com/sindresorhus/ora)
 2. [glob](https://github.com/isaacs/node-glob)
 	
 >###Webpack
