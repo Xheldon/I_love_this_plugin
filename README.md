@@ -1,8 +1,8 @@
 # I love this plugin
 
-##我用过的一些好用/常用的插件
+## 我用过的一些好用/常用的插件
 
-###通用:
+### 通用:
 
 1. [ora](https://github.com/sindresorhus/ora)
 	>用来在控制台显示一个类似于loandig循环转圈的效果
@@ -39,7 +39,7 @@
 2. [dev-cert-authority](https://github.com/latentflip/dev-cert-authority)
 	>用来在本地开发过程中使用https调试，尤其是当接口或者数据请求地址为https时尤其有用。
 
-###Webpack(只列出非官方插件)
+### Webpack(只列出非官方插件)
 
 1. [progress-bar-webpack-plugin](https://github.com/clessg/progress-bar-webpack-plugin)
 	>一个进度条插件，用来显示webpack打包任务进度，其中的options与`node-progress`插件一致,配合`colors`插件使用效果更佳
